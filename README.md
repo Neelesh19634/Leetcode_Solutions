@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0846-hand-of-straights) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 ## Combinatorics
 |  |
 | ------- |
