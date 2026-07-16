@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
