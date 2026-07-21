@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0120-triangle) |
+| [0275-h-index-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0275-h-index-ii) |
 | [0322-coin-change](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0275-h-index-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0275-h-index-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
