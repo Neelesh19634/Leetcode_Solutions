@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0942-di-string-match](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1048-longest-string-chain](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0846-hand-of-straights](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0846-hand-of-straights) |
 | [0976-largest-perimeter-triangle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1048-longest-string-chain](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Combinatorics
 |  |
 | ------- |
