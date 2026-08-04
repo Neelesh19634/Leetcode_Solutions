@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
