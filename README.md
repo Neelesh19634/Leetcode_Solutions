@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0976-largest-perimeter-triangle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Greedy
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0846-hand-of-straights) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0942-di-string-match) |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
