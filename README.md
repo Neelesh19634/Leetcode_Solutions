@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0621-task-scheduler) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0072-edit-distance) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
