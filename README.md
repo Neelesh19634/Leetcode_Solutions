@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0044-wildcard-matching](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -255,5 +257,10 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
