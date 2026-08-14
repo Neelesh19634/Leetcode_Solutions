@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0846-hand-of-straights) |
 | [1048-longest-string-chain](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
@@ -283,8 +285,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
