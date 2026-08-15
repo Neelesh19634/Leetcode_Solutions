@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
