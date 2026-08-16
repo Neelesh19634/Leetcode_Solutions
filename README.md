@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0044-wildcard-matching](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0402-remove-k-digits](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0942-di-string-match](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0942-di-string-match) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
