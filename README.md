@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0149-max-points-on-a-line](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0239-sliding-window-maximum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0275-h-index-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0976-largest-perimeter-triangle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -334,4 +337,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
