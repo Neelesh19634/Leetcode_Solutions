@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0275-h-index-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
