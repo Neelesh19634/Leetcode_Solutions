@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0149-max-points-on-a-line](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0126-word-ladder-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0542-01-matrix) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0110-balanced-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
