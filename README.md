@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0130-surrounded-regions) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0494-target-sum) |
 ## Recursion
 |  |
@@ -483,5 +487,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
