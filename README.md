@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Counting
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Simulation
 |  |
 | ------- |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Backtracking
 |  |
 | ------- |
@@ -478,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
 |  |
 | ------- |
@@ -500,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -559,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
