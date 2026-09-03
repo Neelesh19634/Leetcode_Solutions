@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Math
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Backtracking
 |  |
 | ------- |
