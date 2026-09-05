@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 ## Heap (Priority Queue)
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Bidirectional Search
 |  |
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Bit Manipulation
 |  |
 | ------- |
