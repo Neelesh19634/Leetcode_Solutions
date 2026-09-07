@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
@@ -616,4 +618,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
