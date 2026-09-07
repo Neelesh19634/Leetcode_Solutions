@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0787-cheapest-flights-within-k-stops](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Bidirectional Search
 |  |
@@ -606,4 +608,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0743-network-delay-time](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
