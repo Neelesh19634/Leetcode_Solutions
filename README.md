@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0335-self-crossing](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0335-self-crossing](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0976-largest-perimeter-triangle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Greedy
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0335-self-crossing) |
 ## Euclidean Algorithm
 |  |
 | ------- |
