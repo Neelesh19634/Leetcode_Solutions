@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1043-partition-array-for-maximum-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Math
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0621-task-scheduler) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 ## Tree
 |  |
 | ------- |
