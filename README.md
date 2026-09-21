@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1092-shortest-common-supersequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -664,4 +666,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0284-peeking-iterator) |
+## Enumeration
+|  |
+| ------- |
+| [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 <!---LeetCode Topics End-->
