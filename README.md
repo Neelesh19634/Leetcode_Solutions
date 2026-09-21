@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
+| [4024-nearest-available-drone](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/4024-nearest-available-drone) |
 ## Math
 |  |
 | ------- |
@@ -669,5 +670,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [4024-nearest-available-drone](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/4024-nearest-available-drone) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 <!---LeetCode Topics End-->
