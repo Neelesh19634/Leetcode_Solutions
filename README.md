@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0149-max-points-on-a-line](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0149-max-points-on-a-line) |
 | [0187-repeated-dna-sequences](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0621-task-scheduler) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0127-word-ladder](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0290-word-pattern](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
