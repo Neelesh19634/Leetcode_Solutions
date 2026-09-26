@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0312-burst-balloons](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
