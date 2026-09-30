@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0542-01-matrix](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0743-network-delay-time) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0743-network-delay-time) |
