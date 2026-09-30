@@ -12,29 +12,23 @@ public:
 
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
-        if(root==NULL) return "";
+        string res="";
+        if(root==NULL) return res;
 
         queue<TreeNode*> q;
-        string res="";
-
         q.push(root);
-
         while(!q.empty()){
             auto node=q.front();
             q.pop();
 
             if(node==NULL) res+="#,";
             else{
-
-             res+=to_string(node->val)+",";
-
-             q.push(node->left);
-             q.push(node->right);
+                res+=to_string(node->val)+",";
+                q.push(node->left);
+                q.push(node->right);
             }
-
-            
-
         }
+
         return res;
     }
 
@@ -42,43 +36,38 @@ public:
     TreeNode* deserialize(string data) {
         if(data.empty()) return NULL;
 
-       
         stringstream s(data);
+
         string res;
 
         getline(s,res,',');
 
         TreeNode* root=new TreeNode(stoi(res));
-
         queue<TreeNode*> q;
-
         q.push(root);
 
         while(!q.empty()){
             auto node=q.front();
             q.pop();
-
             getline(s,res,',');
 
             if(res!="#"){
                 TreeNode* l=new TreeNode(stoi(res));
+
                 node->left=l;
                 q.push(l);
             }
 
             getline(s,res,',');
-
             if(res!="#"){
-                TreeNode* r=new TreeNode(stoi(res));
-                node->right=r;
-                q.push(r);
-            }
-            
+                TreeNode* l=new TreeNode(stoi(res));
 
+                node->right=l;
+                q.push(l);
+            }
         }
 
         return root;
-
     }
 };
 
