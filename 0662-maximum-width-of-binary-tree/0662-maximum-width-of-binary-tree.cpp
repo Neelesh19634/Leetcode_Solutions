@@ -21,14 +21,14 @@ public:
         int maxa=0;
         while(!q.empty()){
             int size=q.size();
-            int first=0;
-            int last=0;
-            int minidx=q.front().second;
+            ll first=0;
+            ll last=0;
+            ll minidx=q.front().second;
 
             for(int i=0;i<size;i++){
                 auto [node,idx]=q.front();
                 q.pop();
-                int curr=idx-minidx;
+                ll curr=idx-minidx;
 
                 if(i==0) first=curr;
                 if(i==size-1) last=curr;
