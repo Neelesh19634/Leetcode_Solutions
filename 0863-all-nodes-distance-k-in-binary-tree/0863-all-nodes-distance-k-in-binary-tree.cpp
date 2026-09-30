@@ -9,18 +9,19 @@
  */
 class Solution {
     private:
-    void parentmap(TreeNode* root,unordered_map<TreeNode*,TreeNode*> &mp){
+    void findparent(TreeNode* root,unordered_map<TreeNode*,TreeNode*> &mp){
+        if(root==NULL) return;
+
         queue<TreeNode*> q;
+
         q.push(root);
         while(!q.empty()){
             auto node=q.front();
             q.pop();
-
             if(node->left){
                 mp[node->left]=node;
                 q.push(node->left);
             }
-
             if(node->right){
                 mp[node->right]=node;
                 q.push(node->right);
@@ -28,56 +29,53 @@ class Solution {
         }
     }
 
-    vector<int> solve(TreeNode* root,TreeNode* target,int k ,unordered_map<TreeNode*,TreeNode*> &mp){
+    void solve(TreeNode* root,unordered_map<TreeNode*,TreeNode*> &mp,TreeNode* target,int k,vector<int> &ans){
+        if(root==NULL) return ;
+
         queue<TreeNode*> q;
-        unordered_set<TreeNode*> st;
-        
-        q.push(target);
-        st.insert(target);
+        unordered_map<TreeNode*,bool> vis;
         int curr=0;
+
+        q.push(target);
+        vis[target]=true;
         while(!q.empty()){
             int len=q.size();
             if(curr++==k) break;
-
             for(int i=0;i<len;i++){
                 auto node=q.front();
                 q.pop();
-
-                if(node->left && st.find(node->left)==st.end()){
+                if(node->left && !vis[node->left]){
+                    vis[node->left]=true;
                     q.push(node->left);
-                    st.insert(node->left);
                 }
 
-                if(node->right && st.find(node->right)==st.end()){
+                if(node->right && !vis[node->right]){
+                    vis[node->right]=true;
                     q.push(node->right);
-                    st.insert(node->right);
                 }
-
-                if(mp.count(node) && st.find(mp[node])==st.end()){
+                if(mp.count(node) && !vis[mp[node]]){
+                    vis[mp[node]]=true;
                     q.push(mp[node]);
-                    st.insert(mp[node]);
                 }
             }
         }
 
-        vector<int> res;
         while(!q.empty()){
             auto node=q.front();
             q.pop();
-            res.push_back(node->val);
+            ans.push_back(node->val);
         }
-
-        return res;
-        
-
     }
 public:
-
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        if(root==NULL) return {};
-        unordered_map<TreeNode*,TreeNode*> mp;
-        parentmap(root,mp);
+       vector<int> ans;
+       if(!root) return ans;
+       unordered_map<TreeNode*, TreeNode*> mp;
+        findparent(root,mp);
 
-        return solve(root,target,k,mp);
+        solve(root,mp,target,k,ans);
+        return ans;
+
+        
     }
 };
