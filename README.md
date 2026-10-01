@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
