@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -581,10 +585,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Union-Find
 |  |
