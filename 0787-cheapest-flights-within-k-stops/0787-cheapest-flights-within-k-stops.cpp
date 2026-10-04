@@ -8,29 +8,27 @@ public:
         }
 
         vector<int> dist(n,1e9);
-        queue<pair<int,pair<int,int>>> q; //{dis,{node,stops}}
+
+        queue<pair<int,pair<int,int>>> q; //{dist,{node,stops}};
+
+        dist[0]=0;
         q.push({0,{src,0}});
-        dist[src]=0;
 
         while(!q.empty()){
-            auto it=q.front();
+            int dis=q.front().first;
+            auto [node,stop]=q.front().second;
             q.pop();
-            int d=it.first;
-            auto [node,stops]=it.second;
-
-            if(stops>k) continue;
-
-            for(auto jt:adj[node]){
-                int newnode=jt.first;
-                int c=jt.second;
-
-                if(c+d <dist[newnode] && stops<=k){
-                    dist[newnode]=c+d;
-                    q.push({c+d,{newnode,stops+1}});
+            if(stop>k) continue;
+            for(auto &it:adj[node]){
+                int w=it.second;
+                int newnode=it.first;
+                if(dis+w<dist[newnode] && stop<=k){
+                    dist[newnode]=dis+w;
+                    q.push({dis+w,{newnode,stop+1}});
                 }
             }
-        }
 
+        }
         if(dist[dst]==1e9) return -1;
         return dist[dst];
     }
