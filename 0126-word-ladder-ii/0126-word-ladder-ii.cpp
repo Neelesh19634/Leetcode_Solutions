@@ -1,7 +1,8 @@
 class Solution {
-    map<string,int> mp;
-    string b;
     vector<vector<string>> ans;
+    unordered_map<string,int> mp;
+    string b;
+
     private:
     void dfs(string word,vector<string> &seq){
         if(word==b){
@@ -12,11 +13,14 @@ class Solution {
         }
 
         int steps=mp[word];
+
         for(int i=0;i<word.size();i++){
             char original=word[i];
+
             for(char j='a';j<='z';j++){
                 word[i]=j;
-                if(mp.find(word)!=mp.end() && mp[word]+1==steps){
+
+                if(mp.find(word)!=mp.end() && steps==mp[word]+1){
                     seq.push_back(word);
                     dfs(word,seq);
                     seq.pop_back();
@@ -27,29 +31,28 @@ class Solution {
         }
     }
 public:
-    vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& s) {
-        
+    vector<vector<string>> findLadders(string beginWord, string endWord, vector<string>& wordList) {
+        set<string> st(wordList.begin(),wordList.end());
         queue<string> q;
-        unordered_set<string> st(s.begin(),s.end());
-
         mp[beginWord]=1;
-        st.erase(beginWord);
         q.push(beginWord);
         b=beginWord;
+        st.erase(beginWord);
 
         while(!q.empty()){
-            auto word=q.front();
-            int steps=mp[word];
+            string word=q.front();
             q.pop();
+            int steps=mp[word];
             if(word==endWord) break;
-
             for(int i=0;i<word.size();i++){
                 char original=word[i];
+                
                 for(char j='a';j<='z';j++){
                     word[i]=j;
+
                     if(st.find(word)!=st.end()){
-                        q.push(word);
                         st.erase(word);
+                        q.push(word);
                         mp[word]=steps+1;
                     }
                 }
@@ -61,7 +64,6 @@ public:
             vector<string> seq;
             seq.push_back(endWord);
             dfs(endWord,seq);
-            
         }
 
         return ans;
