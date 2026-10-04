@@ -9,14 +9,14 @@ public:
         }
 
         queue<int> q;
-        vector<int> ans;
-
         for(int i=0;i<n;i++){
             if(indeg[i]==0) q.push(i);
         }
 
+        vector<int> ans;
+
         while(!q.empty()){
-            int node=q.front();
+            auto node=q.front();
             q.pop();
             ans.push_back(node);
 
@@ -30,6 +30,4 @@ public:
 
         return ans;
     }
-
-
 };
