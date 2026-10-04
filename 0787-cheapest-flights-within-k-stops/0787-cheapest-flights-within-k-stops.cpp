@@ -11,7 +11,7 @@ public:
 
         queue<pair<int,pair<int,int>>> q; //{dist,{node,stops}};
 
-        dist[0]=0;
+        dist[src]=0;
         q.push({0,{src,0}});
 
         while(!q.empty()){
