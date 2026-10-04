@@ -2,27 +2,25 @@ class Solution {
 public:
     bool canFinish(int n, vector<vector<int>>& edges) {
         vector<vector<int>> adj(n);
-        vector<int> indeg(n ,0);
+        vector<int> indegree(n,0);
         for(auto &it:edges){
             adj[it[1]].push_back(it[0]);
-            indeg[it[0]]++;
+            indegree[it[0]]++;
         }
 
         queue<int> q;
-       int count=0;
-
         for(int i=0;i<n;i++){
-            if(indeg[i]==0) q.push(i);
+            if(indegree[i]==0) q.push(i);
         }
-
+        int count=0;
         while(!q.empty()){
             auto node=q.front();
             q.pop();
-           count++;
+            count++;
 
             for(auto &it:adj[node]){
-                indeg[it]--;
-                if(indeg[it]==0) q.push(it);
+                indegree[it]--;
+                if(indegree[it]==0) q.push(it);
             }
         }
 
