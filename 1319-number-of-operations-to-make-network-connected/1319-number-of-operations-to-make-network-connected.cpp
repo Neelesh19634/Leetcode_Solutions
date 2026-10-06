@@ -28,7 +28,7 @@ public:
 
         parent.resize(n+1);
         rank.resize(n+1,0);
-        if(edges.size()<n) return -1;
+        if(edges.size()<n-1) return -1;
 
         for(int i=0;i<n;i++) parent[i]=i;
 
