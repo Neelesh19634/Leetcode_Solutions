@@ -1,11 +1,11 @@
 class Solution {
-    vector<int> rank,parent;
+    vector<int> parent,rank;
+    private:
     int findp(int i){
         if(i==parent[i]) return i;
 
         return parent[i]=findp(parent[i]);
     }
-
     void dsu(int i,int j){
         int pi=findp(i);
         int pj=findp(j);
@@ -23,20 +23,19 @@ class Solution {
         }
     }
 public:
-    vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
-        int n=accounts.size();
-        rank.resize(n,0);
-        parent.resize(n);
+    vector<vector<string>> accountsMerge(vector<vector<string>>& acc) {
+        int n=acc.size();
+        parent.resize(n+1);
+        rank.resize(n+1,0);
 
-        for(int i=0;i<n;i++){
-            parent[i]=i;
-        }
+        for(int i=0;i<parent.size();i++) parent[i]=i;
 
         unordered_map<string,int> mp;
 
         for(int i=0;i<n;i++){
-            for(int j=1;j<accounts[i].size();j++){
-                string mail=accounts[i][j];
+            for(int j=1;j<acc[i].size();j++){
+                string mail=acc[i][j];
+
                 if(mp.find(mail)==mp.end()){
                     mp[mail]=i;
                 }else{
@@ -50,6 +49,7 @@ public:
         for(auto &it:mp){
             string mail=it.first;
             int node=findp(it.second);
+
             res[node].push_back(mail);
         }
 
@@ -57,10 +57,9 @@ public:
 
         for(int i=0;i<n;i++){
             if(res[i].size()==0) continue;
-            sort(res[i].begin(),res[i].end());
-
             vector<string> temp;
-            temp.push_back(accounts[i][0]);
+            sort(res[i].begin(),res[i].end());
+            temp.push_back(acc[i][0]);
 
             for(auto &it:res[i]){
                 temp.push_back(it);
@@ -68,6 +67,8 @@ public:
 
             ans.push_back(temp);
         }
+        
+
         return ans;
     }
 };
