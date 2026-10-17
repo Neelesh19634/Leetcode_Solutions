@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Doubly-Linked List
 |  |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Range Minimum/Maximum Query
 |  |
