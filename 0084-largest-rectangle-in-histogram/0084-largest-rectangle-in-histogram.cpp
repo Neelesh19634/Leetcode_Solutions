@@ -3,22 +3,27 @@ public:
     int largestRectangleArea(vector<int>& arr) {
         int n=arr.size();
         stack<int> st;
-        int maxa=0;
-        for(int i=0;i<=n;i++){
-            while(!st.empty() &&(i==n || arr[st.top()]>arr[i])){
-                int elem=st.top();
+        int ans=0;
+        for(int i=0;i<n;i++){
+            while(!st.empty() && arr[i]<arr[st.top()]){
+                int element=st.top();
                 st.pop();
-                int nse=i;
                 int pse=st.empty()?-1:st.top();
-                
-                maxa=max(maxa,(nse-pse-1)*arr[elem]);
+                int nse=i;
+                ans=max(ans,(nse-pse-1)*arr[element]);
 
             }
             st.push(i);
         }
 
-       
+        while(!st.empty()){
+            int nse=n;
+            int element=st.top();
+            st.pop();
+            int pse=st.empty()?-1:st.top();
+            ans=max(ans,(nse-pse-1)*arr[element]);
+        }
 
-        return maxa;
+        return ans;
     }
 };
