@@ -1,46 +1,36 @@
 class Solution {
-    private:
-    string nse(int n,string s,int k){
-         stack<char> st;
-         string res="";
+public:
+    string removeKdigits(string num, int k) {
+        int n=num.size();
+        stack<char> st;
+
         for(int i=0;i<n;i++){
-            char num=s[i];
-            while(!st.empty() && st.top()>num && k>0) {
+            char ch=num[i];
+            while(!st.empty() && ch<st.top() && k!=0) {
                 st.pop();
                 k--;
             }
-            st.push(num);
+            st.push(ch);
         }
-
         while(!st.empty() && k>0){
             st.pop();
             k--;
         }
+
         if(st.empty()) return "0";
+        string res="";
+
         while(!st.empty()){
             res+=st.top();
             st.pop();
         }
 
-        while(res.size()>0 && res.back()=='0'){
-            res.pop_back();
-        }
+        while(res.size()>0 && res.back()=='0') res.pop_back();
+
         reverse(res.begin(),res.end());
         if(res.empty()) return "0";
+
+
         return res;
-        
-    }
-public:
-    string removeKdigits(string num, int k) {
-        int n=num.size();
-       
-        if(k==n) return "0";
-         string res=nse(n,num,k);
-
-       
-
-      
-        return res;
-
     }
 };
