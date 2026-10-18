@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0455-assign-cookies) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
