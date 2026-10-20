@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0942-di-string-match](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1020-number-of-enclaves) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1046-last-stone-weight) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1004-max-consecutive-ones-iii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Linked List
 |  |
@@ -764,4 +767,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
