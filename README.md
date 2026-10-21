@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1048-longest-string-chain](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [4024-nearest-available-drone](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/4024-nearest-available-drone) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0335-self-crossing](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0335-self-crossing) |
 | [0368-largest-divisible-subset](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0976-largest-perimeter-triangle](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1048-longest-string-chain) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
 ## Linked List
 |  |
@@ -781,4 +785,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
