@@ -11,18 +11,18 @@ public:
         int l=0;
         int r=0;
         int mina=INT_MAX;
-        int count=m;
+        int count=0;
 
         while(r<n){
-            if(v[s[r]]>0) count--;
+            if(v[s[r]]>0) count++;
             v[s[r]]--;
-            while(count==0){
+            while(count==m){
                 if(r-l+1<mina){
                     mina=r-l+1;
                     start=l;
                 }
                 v[s[l]]++;
-                if(v[s[l]]>0) count++;
+                if(v[s[l]]>0) count--;
                 l++;
             }
             r++;
