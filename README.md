@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [4043-count-rotations-with-exactly-k-equal-adjacent-pairs](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/4043-count-rotations-with-exactly-k-equal-adjacent-pairs) |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/Neelesh19634/Leetcode_Solutions/tree/master/4106-find-mismatched-segments-between-two-strings) |
 ## Breadth-First Search
 |  |
 | ------- |
